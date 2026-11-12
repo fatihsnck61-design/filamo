@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Filamo – Datenschutzerklärung</title>
+<style>
+  :root { --bg:#0A0B10; --card:#15171f; --text:#f2f3f7; --muted:#a6a9b6; --accent:#FF8A3D; --line:#262935; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font:16px/1.65 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width:760px; margin:0 auto; padding:40px 16px 64px; }
+  h1 { font-size:2rem; margin:0 0 4px; }
+  h2 { font-size:1.2rem; margin:32px 0 8px; }
+  .meta { color:var(--muted); margin:0 0 24px; }
+  ul { padding-left:20px; }
+  li { margin:6px 0; }
+  code { background:var(--card); border:1px solid var(--line); border-radius:6px; padding:1px 6px; font-size:.92em; }
+  a { color:var(--accent); }
+  hr { border:0; border-top:1px solid var(--line); margin:40px 0; }
+</style>
+</head>
+<body>
+<main>
+  <p><a href="./">← Filamo</a></p>
+  <h1>Datenschutzerklärung</h1>
+  <p class="meta">Stand: 12.11.2026 · gilt für die Android-App „Filamo“ (Paket <code>app.filamo</code>)</p>
+
+  <p>Filamo ist eine Filament-Verwaltung für den 3D-Druck. Die App braucht kein Konto, zeigt keine Werbung
+  und verwendet kein Tracking.</p>
+
+  <h2>Welche Daten verarbeitet die App?</h2>
+  <ul>
+    <li><strong>Deine Einträge</strong> (Rollen, Farben, Restmengen, Verbrauch, Lagerorte, Notizen, Fotos, Einstellungen)
+      werden nur auf deinem Gerät gespeichert. Die Android-Systemsicherung ist für Filamo ausgeschaltet.</li>
+    <li><strong>Fotos</strong> werden beim Hinzufügen verkleinert und neu gespeichert – ohne die ursprünglichen
+      Metadaten (z. B. ohne Ortsdaten).</li>
+  </ul>
+
+  <h2>Sicherung &amp; Abgleich (freiwillig)</h2>
+  <p>Nur wenn du es selbst einschaltest:</p>
+  <ul>
+    <li><strong>Google Drive:</strong> Filamo speichert eine Datei mit deinen Daten und deine Fotos im versteckten
+      App-Ordner (<code>appDataFolder</code>) deines eigenen Google Drive. Nur Filamo kann diesen Ordner lesen.
+      Die App fragt dafür nur die Berechtigungen <code>drive.appdata</code> und <code>email</code> an. Die
+      E-Mail-Adresse wird ausschließlich auf deinem Gerät angezeigt („Angemeldet als …“) und nicht weitergegeben.
+      Du kannst dich jederzeit in der App abmelden; dabei wird der Zugriff von Filamo widerrufen.</li>
+    <li><strong>Eigener Ordner:</strong> Die Daten werden in einen Ordner deiner Wahl geschrieben (z. B. auf dem
+      Handy, einer SD-Karte oder einem Sync-Dienst deiner Wahl). Dafür ist kein Google-Konto nötig.</li>
+  </ul>
+  <p>Filamo nutzt Google-Nutzerdaten ausschließlich, um deine eigenen Filamo-Daten in deinem Drive zu speichern
+  und zwischen deinen Geräten abzugleichen. Diese Daten werden nicht an Dritte weitergegeben, nicht für Werbung
+  verwendet und nicht von Menschen gelesen.</p>
+
+  <h2>Internetverbindungen</h2>
+  <ul>
+    <li><strong>Filament-Datenbank:</strong> Die App lädt die öffentliche Open Filament Database von
+      <code>openfilamentdatabase.org</code> herunter (etwa alle 30 Tage oder auf Wunsch). Dabei werden keine
+      persönlichen Daten gesendet.</li>
+    <li><strong>Barcode-Suche:</strong> Ist ein gescannter Barcode weder in deinen eigenen Daten noch in der
+      Filament-Datenbank bekannt, wird <strong>nur die Barcode-Nummer</strong> an UPCitemdb
+      (<code>api.upcitemdb.com</code>) gesendet, um den Produktnamen zu finden.</li>
+    <li><strong>Barcode-Scanner:</strong> Der Scanner nutzt Google ML Kit und arbeitet auf dem Gerät; Kamerabilder
+      werden nicht gesendet. Google ML Kit überträgt laut Google anonyme Nutzungs- und Diagnosedaten
+      (z. B. Geräte- und App-Informationen, Leistungswerte) an Google.</li>
+  </ul>
+
+  <h2>Berechtigungen</h2>
+  <ul>
+    <li><strong>Kamera</strong> – nur für den Barcode-Scanner und Fotos von Rollen, nur nach deiner Zustimmung.</li>
+    <li><strong>NFC</strong> – zum Lesen und Beschreiben von Spulen-Tags (z. B. Creality CFS).</li>
+    <li><strong>Internet</strong> – für die oben genannten Verbindungen.</li>
+  </ul>
+
+  <h2>Deine Kontrolle</h2>
+  <p>Du kannst alle Daten jederzeit als Datei exportieren (Einstellungen → Export &amp; Import) und durch
+  Deinstallieren der App vollständig vom Gerät löschen. Daten im Google-Drive-App-Ordner kannst du in den
+  Google-Drive-Einstellungen unter „Apps verwalten“ löschen.</p>
+
+  <h2>Kontakt</h2>
+  <p>Fragen zu Filamo und zum Datenschutz kannst du an die Support-E-Mail-Adresse richten, die im
+  Google-Anmeldefenster von Filamo angezeigt wird.</p>
+
+  <hr>
+
+  <h1>Privacy policy (English)</h1>
+  <p>Filamo needs no account, shows no ads and uses no tracking. All data stays on your device.</p>
+  <ul>
+    <li><strong>Backup/sync is optional:</strong> either the hidden app folder (<code>appDataFolder</code>) of your
+      own Google Drive (scopes <code>drive.appdata</code> and <code>email</code>; the email address is only shown on
+      your device) or a folder you choose. Google user data is used only to store and sync your own Filamo data;
+      it is not shared with third parties, not used for advertising and not read by humans.</li>
+    <li><strong>Internet</strong> is used to download the public Open Filament Database, to look up unknown barcodes
+      at UPCitemdb (only the barcode number is sent) and by Google ML Kit, which runs on the device but sends
+      anonymous usage and diagnostic data to Google.</li>
+    <li><strong>Photos</strong> are stored without their original metadata.</li>
+    <li>You can export all data at any time and delete it by uninstalling the app; Drive app data can be deleted
+      in Google Drive under “Manage apps”.</li>
+  </ul>
+  <p>Contact: the support email address shown on Filamo’s Google sign-in screen.</p>
+</main>
+</body>
+</html>
