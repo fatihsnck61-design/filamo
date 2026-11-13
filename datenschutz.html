@@ -23,7 +23,7 @@
 <main>
   <p><a href="./">← Filamo</a></p>
   <h1>Datenschutzerklärung</h1>
-  <p class="meta">Stand: 12.11.2026 · gilt für die Android-App „Filamo“ (Paket <code>app.filamo</code>)</p>
+  <p class="meta">Stand: 13.11.2026 · gilt für die Android-App „Filamo“ (Paket <code>app.filamo</code>)</p>
 
   <p>Filamo ist eine Filament-Verwaltung für den 3D-Druck. Die App braucht kein Konto, zeigt keine Werbung
   und verwendet kein Tracking.</p>
@@ -62,6 +62,10 @@
     <li><strong>Barcode-Scanner:</strong> Der Scanner nutzt Google ML Kit und arbeitet auf dem Gerät; Kamerabilder
       werden nicht gesendet. Google ML Kit überträgt laut Google anonyme Nutzungs- und Diagnosedaten
       (z. B. Geräte- und App-Informationen, Leistungswerte) an Google.</li>
+    <li><strong>Update-Suche (abschaltbar):</strong> Höchstens einmal am Tag fragt die App bei GitHub
+      (<code>api.github.com</code>) nach, ob es eine neue Version gibt. Dabei wird nur die technisch nötige Anfrage
+      gesendet (wie beim Aufruf einer Webseite), keine Daten aus der App. Ausschalten: Einstellungen → Info →
+      „Automatisch nach Updates suchen“.</li>
   </ul>
 
   <h2>Berechtigungen</h2>
@@ -91,7 +95,8 @@
       it is not shared with third parties, not used for advertising and not read by humans.</li>
     <li><strong>Internet</strong> is used to download the public Open Filament Database, to look up unknown barcodes
       at UPCitemdb (only the barcode number is sent) and by Google ML Kit, which runs on the device but sends
-      anonymous usage and diagnostic data to Google.</li>
+      anonymous usage and diagnostic data to Google. At most once a day the app asks GitHub whether a new version
+      exists (can be turned off); no app data is sent.</li>
     <li><strong>Photos</strong> are stored without their original metadata.</li>
     <li>You can export all data at any time and delete it by uninstalling the app; Drive app data can be deleted
       in Google Drive under “Manage apps”.</li>
