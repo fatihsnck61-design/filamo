@@ -1,0 +1,4082 @@
+{
+ "version": 1,
+ "info": "Eigene Filamo-Datenbank. Einträge hier ergänzen oder ändern; die App lädt die Datei automatisch (Start, höchstens 1x am Tag) oder über Aktualisieren.",
+ "entries": [
+  {
+   "brand": "Geeetech",
+   "line": "ABS+",
+   "material": "ABS",
+   "variant": "Plus",
+   "colorName": "Apple Green",
+   "colors": [
+    "#BBDB4B"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.04,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 95,
+   "bedMax": 110,
+   "sku": "700-001-1735"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ABS+",
+   "material": "ABS",
+   "variant": "Plus",
+   "colorName": "Black",
+   "colors": [
+    "#000000"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.04,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 95,
+   "bedMax": 110,
+   "sku": "700-001-0343"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ABS+",
+   "material": "ABS",
+   "variant": "Plus",
+   "colorName": "Blue",
+   "colors": [
+    "#2E56F1"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.04,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 95,
+   "bedMax": 110,
+   "sku": "700-001-1483"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ABS+",
+   "material": "ABS",
+   "variant": "Plus",
+   "colorName": "Brown",
+   "colors": [
+    "#8B4513"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.04,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 95,
+   "bedMax": 110,
+   "ean": "6974994171111",
+   "sku": "700-001-1550"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ABS+",
+   "material": "ABS",
+   "variant": "Plus",
+   "colorName": "Green",
+   "colors": [
+    "#06B100"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.04,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 95,
+   "bedMax": 110,
+   "sku": "700-001-1545"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ABS+",
+   "material": "ABS",
+   "variant": "Plus",
+   "colorName": "Grey",
+   "colors": [
+    "#9CA7B0"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.04,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 95,
+   "bedMax": 110,
+   "sku": "700-001-1482"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ABS+",
+   "material": "ABS",
+   "variant": "Plus",
+   "colorName": "Orange",
+   "colors": [
+    "#FF9100"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.04,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 95,
+   "bedMax": 110,
+   "sku": "700-001-1547"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ABS+",
+   "material": "ABS",
+   "variant": "Plus",
+   "colorName": "Pink",
+   "colors": [
+    "#FF69B4"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.04,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 95,
+   "bedMax": 110,
+   "ean": "6974994175188",
+   "sku": "700-001-1733"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ABS+",
+   "material": "ABS",
+   "variant": "Plus",
+   "colorName": "Purple",
+   "colors": [
+    "#8846AE"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.04,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 95,
+   "bedMax": 110,
+   "sku": "700-001-1548"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ABS+",
+   "material": "ABS",
+   "variant": "Plus",
+   "colorName": "Red",
+   "colors": [
+    "#D0201B"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.04,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 95,
+   "bedMax": 110,
+   "sku": "700-001-1484"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ABS+",
+   "material": "ABS",
+   "variant": "Plus",
+   "colorName": "Silver",
+   "colors": [
+    "#ABACB0"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.04,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 95,
+   "bedMax": 110,
+   "sku": "700-001-1549"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ABS+",
+   "material": "ABS",
+   "variant": "Plus",
+   "colorName": "Skin",
+   "colors": [
+    "#F1C9A5"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.04,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 95,
+   "bedMax": 110,
+   "sku": "700-001-1734"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ABS+",
+   "material": "ABS",
+   "variant": "Plus",
+   "colorName": "Water Blue",
+   "colors": [
+    "#1ADAFB"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.04,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 95,
+   "bedMax": 110,
+   "sku": "700-001-1551"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ABS+",
+   "material": "ABS",
+   "variant": "Plus",
+   "colorName": "White",
+   "colors": [
+    "#FFFFFF"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.04,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 95,
+   "bedMax": 110,
+   "sku": "700-001-0350"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ABS+",
+   "material": "ABS",
+   "variant": "Plus",
+   "colorName": "Yellow",
+   "colors": [
+    "#FBE200"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.04,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 95,
+   "bedMax": 110,
+   "sku": "700-001-1546"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ASA",
+   "material": "ASA",
+   "colorName": "Black",
+   "colors": [
+    "#000000"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.07,
+   "sku": "700-001-2057"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ASA",
+   "material": "ASA",
+   "colorName": "Blue",
+   "colors": [
+    "#2E56F1"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.07,
+   "sku": "700-001-2060"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ASA",
+   "material": "ASA",
+   "colorName": "Green",
+   "colors": [
+    "#06B100"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.07,
+   "sku": "700-001-2061"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ASA",
+   "material": "ASA",
+   "colorName": "Grey",
+   "colors": [
+    "#9CA7B0"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.07,
+   "sku": "700-001-2059"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ASA",
+   "material": "ASA",
+   "colorName": "Orange",
+   "colors": [
+    "#FF9100"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.07,
+   "sku": "700-001-2062"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ASA",
+   "material": "ASA",
+   "colorName": "Purple",
+   "colors": [
+    "#8846AE"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.07,
+   "sku": "700-001-2063"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "ASA",
+   "material": "ASA",
+   "colorName": "White",
+   "colors": [
+    "#FFFFFF"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.07,
+   "sku": "700-001-2058"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "HS-PLA",
+   "material": "PLA",
+   "variant": "HS",
+   "colorName": "Black",
+   "colors": [
+    "#000000"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 210,
+   "nozzleMax": 230,
+   "ean": "6974994170374",
+   "sku": "700-001-1489"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "HS-PLA",
+   "material": "PLA",
+   "variant": "HS",
+   "colorName": "Blue",
+   "colors": [
+    "#2E56F1"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 210,
+   "nozzleMax": 230,
+   "ean": "6974994170411",
+   "sku": "700-001-1493"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "HS-PLA",
+   "material": "PLA",
+   "variant": "HS",
+   "colorName": "Brown",
+   "colors": [
+    "#7A4A2A"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 210,
+   "nozzleMax": 230,
+   "ean": "6974994175072",
+   "sku": "700-001-1769"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "HS-PLA",
+   "material": "PLA",
+   "variant": "HS",
+   "colorName": "Green",
+   "colors": [
+    "#06B100"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 210,
+   "nozzleMax": 230,
+   "ean": "6974994175010",
+   "sku": "700-001-1767"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "HS-PLA",
+   "material": "PLA",
+   "variant": "HS",
+   "colorName": "Grey",
+   "colors": [
+    "#9CA7B0"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 210,
+   "nozzleMax": 230,
+   "ean": "6974994170404",
+   "sku": "700-001-1491"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "HS-PLA",
+   "material": "PLA",
+   "variant": "HS",
+   "colorName": "Orange",
+   "colors": [
+    "#FF9100"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 210,
+   "nozzleMax": 230,
+   "ean": "6974994175102",
+   "sku": "700-001-1765"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "HS-PLA",
+   "material": "PLA",
+   "variant": "HS",
+   "colorName": "Pink",
+   "colors": [
+    "#F06AA8"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 210,
+   "nozzleMax": 230,
+   "ean": "6974994175065",
+   "sku": "700-001-1771"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "HS-PLA",
+   "material": "PLA",
+   "variant": "HS",
+   "colorName": "Red",
+   "colors": [
+    "#D0201B"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 210,
+   "nozzleMax": 230,
+   "ean": "6974994170466",
+   "sku": "700-001-1492"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "HS-PLA",
+   "material": "PLA",
+   "variant": "HS",
+   "colorName": "Silver",
+   "colors": [
+    "#ABACB0"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 210,
+   "nozzleMax": 230,
+   "ean": "6974994175089",
+   "sku": "700-001-1768"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "HS-PLA",
+   "material": "PLA",
+   "variant": "HS",
+   "colorName": "Skin",
+   "colors": [
+    "#F1C9A5"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 210,
+   "nozzleMax": 230,
+   "ean": "6974994175041",
+   "sku": "700-001-1774"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "HS-PLA",
+   "material": "PLA",
+   "variant": "HS",
+   "colorName": "Transparent",
+   "colors": [
+    "#E6EEF2"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 210,
+   "nozzleMax": 230,
+   "ean": "6974994170428",
+   "sku": "700-001-1494"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "HS-PLA",
+   "material": "PLA",
+   "variant": "HS",
+   "colorName": "Water Blue",
+   "colors": [
+    "#1ADAFB"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 210,
+   "nozzleMax": 230,
+   "ean": "6974994175058",
+   "sku": "700-001-1772"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "HS-PLA",
+   "material": "PLA",
+   "variant": "HS",
+   "colorName": "White",
+   "colors": [
+    "#FFFFFF"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 210,
+   "nozzleMax": 230,
+   "ean": "6974994170381",
+   "sku": "700-001-1490"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "HS-PLA",
+   "material": "PLA",
+   "variant": "HS",
+   "colorName": "Yellow",
+   "colors": [
+    "#FBE200"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 210,
+   "nozzleMax": 230,
+   "ean": "6974994175096",
+   "sku": "700-001-1766"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Apple Green",
+   "colors": [
+    "#BBDB4B"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "ean": "6974994175157",
+   "sku": "700-001-1730"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Army Green",
+   "colors": [
+    "#4B5320"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "sku": "700-001-2207"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Black",
+   "colors": [
+    "#000000"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "ean": "6974994170244",
+   "sku": "700-001-1309"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Blue",
+   "colors": [
+    "#2E56F1"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "ean": "6974994170251",
+   "sku": "700-001-1316"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Brown",
+   "colors": [
+    "#7A4A2A"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "ean": "6974994175126",
+   "sku": "700-001-1726"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Clear",
+   "colors": [
+    "#E6EEF2"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "ean": "6974994170268",
+   "sku": "700-001-1311"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Green",
+   "colors": [
+    "#06B100"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "ean": "6974994170725",
+   "sku": "700-001-1315"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Grey",
+   "colors": [
+    "#9CA7B0"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "ean": "6974994170534",
+   "sku": "700-001-1320"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Olive Green",
+   "colors": [
+    "#6C8C59"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "sku": "700-001-2150"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Orange",
+   "colors": [
+    "#FF9100"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "ean": "6974994170732",
+   "sku": "700-001-1313"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Pink",
+   "colors": [
+    "#F06AA8"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "ean": "6974994175164",
+   "sku": "700-001-1728"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Purple",
+   "colors": [
+    "#8846AE"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "ean": "6974994175133",
+   "sku": "700-001-1727"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Red",
+   "colors": [
+    "#D0201B"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "ean": "6974994170749",
+   "sku": "700-001-1312"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Silver",
+   "colors": [
+    "#ABACB0"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "ean": "6974994170541",
+   "sku": "700-001-1321"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Skin",
+   "colors": [
+    "#F1C9A5"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "ean": "6974994175140",
+   "sku": "700-001-1742"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Transparent Blue",
+   "colors": [
+    "#2E56F1"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "sku": "700-001-2146"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Transparent Emerald Green",
+   "colors": [
+    "#1F9D55"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "sku": "700-001-2213"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Transparent Grey",
+   "colors": [
+    "#9CA7B0"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "sku": "700-001-2211"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Transparent Orange",
+   "colors": [
+    "#FF9100"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "sku": "700-001-2209"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Transparent Pink",
+   "colors": [
+    "#F06AA8"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "sku": "700-001-2212"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Transparent Purple",
+   "colors": [
+    "#8846AE"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "sku": "700-001-2210"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Transparent Red",
+   "colors": [
+    "#D0201B"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "sku": "700-001-2145"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Water Blue",
+   "colors": [
+    "#1ADAFB"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "ean": "6974994175119",
+   "sku": "700-001-1729"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "White",
+   "colors": [
+    "#FFFFFF"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "ean": "6974994170756",
+   "sku": "700-001-1310"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG",
+   "material": "PETG",
+   "colorName": "Yellow",
+   "colors": [
+    "#FBE200"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "bedMin": 60,
+   "bedMax": 85,
+   "ean": "6974994170275",
+   "sku": "700-001-1314"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG Metal",
+   "material": "PETG",
+   "variant": "Metallic",
+   "colorName": "Blue",
+   "colors": [
+    "#2E56F1"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "METALLIC"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "sku": "700-001-2037"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG Metal",
+   "material": "PETG",
+   "variant": "Metallic",
+   "colorName": "Brown",
+   "colors": [
+    "#7A4A2A"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "METALLIC"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "sku": "700-001-2036"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG Metal",
+   "material": "PETG",
+   "variant": "Metallic",
+   "colorName": "Gold",
+   "colors": [
+    "#E3B145"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "METALLIC"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "sku": "700-001-2206"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG Metal",
+   "material": "PETG",
+   "variant": "Metallic",
+   "colorName": "Green",
+   "colors": [
+    "#06B100"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "METALLIC"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "sku": "700-001-2041"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG Metal",
+   "material": "PETG",
+   "variant": "Metallic",
+   "colorName": "Pink",
+   "colors": [
+    "#C8507F"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "METALLIC"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "sku": "700-001-2039",
+   "codes": [
+    "921519496853"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG Metal",
+   "material": "PETG",
+   "variant": "Metallic",
+   "colorName": "Purple",
+   "colors": [
+    "#8846AE"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "METALLIC"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "sku": "700-001-2040"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG Metal",
+   "material": "PETG",
+   "variant": "Metallic",
+   "colorName": "Rose Gold",
+   "colors": [
+    "#D8A39D"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "METALLIC"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "sku": "700-001-2042"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PETG Metal",
+   "material": "PETG",
+   "variant": "Metallic",
+   "colorName": "Silver",
+   "colors": [
+    "#ABACB0"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "METALLIC"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.27,
+   "nozzleMin": 220,
+   "nozzleMax": 250,
+   "sku": "700-001-2038"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Apple Green",
+   "colors": [
+    "#BBDB4B"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170763",
+   "sku": "700-001-1232",
+   "codes": [
+    "921019583806"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Beige",
+   "colors": [
+    "#E8D8B8"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "sku": "700-001-2190"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Black",
+   "colors": [
+    "#000000"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170770",
+   "sku": "700-001-0426"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Blue",
+   "colors": [
+    "#2E56F1"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170787",
+   "sku": "700-001-0428",
+   "codes": [
+    "902001668675"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Bone White",
+   "colors": [
+    "#EADAC2"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994171937",
+   "sku": "700-001-1839"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Brown",
+   "colors": [
+    "#7A4A2A"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170794",
+   "sku": "700-001-0432"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Clear",
+   "colors": [
+    "#E6EEF2"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170565",
+   "sku": "700-001-1081",
+   "codes": [
+    "921019583779"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Dark Green Bronze",
+   "colors": [
+    "#4F7B57"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 185,
+   "nozzleMax": 215,
+   "bedMin": 25,
+   "bedMax": 60
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Gradient Colour",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994174815",
+   "sku": "700-001-1160",
+   "colors": [
+    "#FD9106",
+    "#6299DF",
+    "#7AB352",
+    "#FCE575"
+   ],
+   "colorMode": "GRADIENT"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Green",
+   "colors": [
+    "#06B100"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170800",
+   "sku": "700-001-0423",
+   "codes": [
+    "902001695987"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Grey",
+   "colors": [
+    "#9CA7B0"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170817",
+   "sku": "700-001-0429",
+   "codes": [
+    "921005579966"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Orange",
+   "colors": [
+    "#FF9100"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170824",
+   "sku": "700-001-0430",
+   "codes": [
+    "902002008826",
+    "921019583772"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Pink",
+   "colors": [
+    "#F06AA8"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994171562",
+   "sku": "700-001-1210",
+   "codes": [
+    "921019379538"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Purple",
+   "colors": [
+    "#8846AE"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170831",
+   "sku": "700-001-0431",
+   "codes": [
+    "902001688300"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Red",
+   "colors": [
+    "#D0201B"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170282",
+   "sku": "700-001-0427",
+   "codes": [
+    "921336414845"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Sand Gold",
+   "colors": [
+    "#D9B66B"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994174808",
+   "sku": "700-001-1191"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Silver",
+   "colors": [
+    "#ABACB0"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170848",
+   "sku": "700-001-1080"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Skin",
+   "colors": [
+    "#F1C9A5"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994172613",
+   "sku": "700-001-1725",
+   "codes": [
+    "921336414920"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Warm White",
+   "colors": [
+    "#F3EAD8"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994171920",
+   "sku": "700-001-1838"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Water Blue",
+   "colors": [
+    "#1ADAFB"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170855",
+   "sku": "700-001-1231",
+   "codes": [
+    "921019379539"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "White",
+   "colors": [
+    "#FFFFFF"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170862",
+   "sku": "700-001-0433",
+   "codes": [
+    "921019583774"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA",
+   "material": "PLA",
+   "colorName": "Yellow",
+   "colors": [
+    "#FBE200"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170879",
+   "sku": "700-001-0434",
+   "codes": [
+    "902002035416"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Carbon Fiber",
+   "material": "PLA",
+   "variant": "CF",
+   "colorName": "Black",
+   "colors": [
+    "#1E1E1E"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "CARBON",
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994173184",
+   "sku": "700-001-1542"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Carbon Fiber",
+   "material": "PLA",
+   "variant": "CF",
+   "colorName": "Blue",
+   "colors": [
+    "#232834"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "CARBON",
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994173191",
+   "sku": "700-001-1860"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Carbon Fiber",
+   "material": "PLA",
+   "variant": "CF",
+   "colorName": "Brick Red",
+   "colors": [
+    "#462B2E"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "CARBON",
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994173207",
+   "sku": "700-001-1862"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Carbon Fiber",
+   "material": "PLA",
+   "variant": "CF",
+   "colorName": "Grey",
+   "colors": [
+    "#4A4D52"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "CARBON",
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 70,
+   "sku": "700-001-1861"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Carbon Fiber",
+   "material": "PLA",
+   "variant": "CF",
+   "colorName": "Matcha Green",
+   "colors": [
+    "#363C32"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "CARBON",
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994173214",
+   "sku": "700-001-1863"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA like Marble",
+   "material": "PLA",
+   "variant": "Marble",
+   "colorName": "Blue",
+   "colors": [
+    "#2E56F1"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MARBLE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994171036",
+   "sku": "700-001-1536"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA like Marble",
+   "material": "PLA",
+   "variant": "Marble",
+   "colorName": "Brown",
+   "colors": [
+    "#7A4A2A"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MARBLE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994171043",
+   "sku": "700-001-1535"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA like Marble",
+   "material": "PLA",
+   "variant": "Marble",
+   "colorName": "Like Marble Grey",
+   "effects": [
+    "MARBLE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994170558",
+   "sku": "700-001-1206",
+   "codes": [
+    "921019379557"
+   ],
+   "colors": [
+    "#B0B0B0"
+   ],
+   "colorMode": "SOLID"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Luminous",
+   "material": "PLA",
+   "variant": "Glow",
+   "colorName": "Blue",
+   "colors": [
+    "#2E56F1"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "GLOW"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994170497",
+   "sku": "700-001-1195"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Luminous",
+   "material": "PLA",
+   "variant": "Glow",
+   "colorName": "Green",
+   "colors": [
+    "#06B100"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "GLOW"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 70,
+   "sku": "700-001-1194"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Luminous",
+   "material": "PLA",
+   "variant": "Glow",
+   "colorName": "Multicolour",
+   "effects": [
+    "GLOW"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994170510",
+   "sku": "700-001-1365",
+   "colors": [
+    "#CE92CE",
+    "#9DBD8B",
+    "#BBA0DA"
+   ],
+   "colorMode": "GRADIENT"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Luminous",
+   "material": "PLA",
+   "variant": "Glow",
+   "colorName": "Orange",
+   "colors": [
+    "#FF9100"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "GLOW"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994174884",
+   "sku": "700-001-1479"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Luminous",
+   "material": "PLA",
+   "variant": "Glow",
+   "colorName": "Purple",
+   "colors": [
+    "#8846AE"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "GLOW"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994174907",
+   "sku": "700-001-1478"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Luminous",
+   "material": "PLA",
+   "variant": "Glow",
+   "colorName": "Rose Red",
+   "colors": [
+    "#E8456B"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "GLOW"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994174914",
+   "sku": "700-001-1480"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Luminous",
+   "material": "PLA",
+   "variant": "Glow",
+   "colorName": "White",
+   "colors": [
+    "#FFFFFF"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "GLOW"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994174891",
+   "sku": "700-001-1481"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Luminous",
+   "material": "PLA",
+   "variant": "Glow",
+   "colorName": "Yellow",
+   "colors": [
+    "#FBE200"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "GLOW"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994174877",
+   "sku": "700-001-1477"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Marble",
+   "material": "PLA",
+   "colorName": "Marble White-Blue Stone",
+   "colors": [
+    "#C3CCD5"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MARBLE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 185,
+   "nozzleMax": 215,
+   "bedMin": 25,
+   "bedMax": 60
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Marble",
+   "material": "PLA",
+   "colorName": "Marble White-Brown Stone",
+   "colors": [
+    "#EFE8D8"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MARBLE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 185,
+   "nozzleMax": 215,
+   "bedMin": 25,
+   "bedMax": 60
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Matte",
+   "material": "PLA",
+   "variant": "Matt",
+   "colorName": "Black",
+   "colors": [
+    "#000000"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994170527",
+   "sku": "700-001-1360"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Matte",
+   "material": "PLA",
+   "variant": "Matt",
+   "colorName": "Blue",
+   "colors": [
+    "#2E56F1"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994170688",
+   "sku": "700-001-1362"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Matte",
+   "material": "PLA",
+   "variant": "Matt",
+   "colorName": "Brown",
+   "colors": [
+    "#7A4A2A"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994174952",
+   "sku": "700-001-1443"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Matte",
+   "material": "PLA",
+   "variant": "Matt",
+   "colorName": "Dark Grey",
+   "colors": [
+    "#5E6366"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994174945",
+   "sku": "700-001-1442"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Matte",
+   "material": "PLA",
+   "variant": "Matt",
+   "colorName": "Green",
+   "colors": [
+    "#06B100"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994170695",
+   "sku": "700-001-1363"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Matte",
+   "material": "PLA",
+   "variant": "Matt",
+   "colorName": "Grey",
+   "colors": [
+    "#9CA7B0"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994170701",
+   "sku": "700-001-1369"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Matte",
+   "material": "PLA",
+   "variant": "Matt",
+   "colorName": "Light Grey",
+   "colors": [
+    "#C9CED1"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994174969",
+   "sku": "700-001-1444"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Matte",
+   "material": "PLA",
+   "variant": "Matt",
+   "colorName": "Navy Blue",
+   "colors": [
+    "#003287"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994174983",
+   "sku": "700-001-1446"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Matte",
+   "material": "PLA",
+   "variant": "Matt",
+   "colorName": "Olive Green",
+   "colors": [
+    "#6C8C59"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994174990",
+   "sku": "700-001-1447"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Matte",
+   "material": "PLA",
+   "variant": "Matt",
+   "colorName": "Orange",
+   "colors": [
+    "#FF9100"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994170978",
+   "sku": "700-001-1364"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Matte",
+   "material": "PLA",
+   "variant": "Matt",
+   "colorName": "Peanut Brown",
+   "colors": [
+    "#A0703C"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 70,
+   "sku": "700-001-2222"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Matte",
+   "material": "PLA",
+   "variant": "Matt",
+   "colorName": "Skin",
+   "colors": [
+    "#F1C9A5"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994174976",
+   "sku": "700-001-1445"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Matte",
+   "material": "PLA",
+   "variant": "Matt",
+   "colorName": "Stone Grey",
+   "colors": [
+    "#8E8E86"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994172521",
+   "sku": "700-001-1448"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Matte",
+   "material": "PLA",
+   "variant": "Matt",
+   "colorName": "Sunny Orange",
+   "colors": [
+    "#FFA62B"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 70,
+   "sku": "700-001-2223"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Matte",
+   "material": "PLA",
+   "variant": "Matt",
+   "colorName": "Terracotta",
+   "colors": [
+    "#C46A4A"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994175003",
+   "sku": "700-001-1449"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Matte",
+   "material": "PLA",
+   "variant": "Matt",
+   "colorName": "White",
+   "colors": [
+    "#FFFFFF"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "MATTE"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 220,
+   "bedMin": 50,
+   "bedMax": 70,
+   "ean": "6974994170718",
+   "sku": "700-001-1361"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Black",
+   "colors": [
+    "#000000"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170572",
+   "sku": "700-001-1204",
+   "codes": [
+    "921019379556"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Bright Gold",
+   "colors": [
+    "#F2C230"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 30,
+   "bedMax": 60,
+   "sku": "700-001-2010"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Bronze",
+   "colors": [
+    "#A97142"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170312",
+   "sku": "700-001-1228"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Bronze Rainbow",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170305",
+   "sku": "700-001-1258"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Copper",
+   "colors": [
+    "#C66547"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 20,
+   "bedMax": 60,
+   "ean": "6974994170886",
+   "sku": "700-001-1215"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Gold",
+   "colors": [
+    "#E3B145"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170589",
+   "sku": "700-001-1216",
+   "codes": [
+    "921019583802"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Green",
+   "colors": [
+    "#06B100"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170893",
+   "sku": "700-001-1201"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Magenta",
+   "colors": [
+    "#F2306E"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 30,
+   "bedMax": 60,
+   "sku": "700-001-1217"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Purple",
+   "colors": [
+    "#8846AE"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 30,
+   "bedMax": 60,
+   "sku": "700-001-1203"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Rainbow",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170596",
+   "sku": "700-001-1182",
+   "colors": [
+    "#FFC946",
+    "#9761B5",
+    "#41A840",
+    "#FB6066",
+    "#0099E6"
+   ],
+   "colorMode": "GRADIENT"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Rainbow Light Colour",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170367",
+   "sku": "700-001-1486"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Royal Blue",
+   "colors": [
+    "#0E21AE"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170336",
+   "sku": "700-001-1247"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Silver",
+   "colors": [
+    "#ABACB0"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 20,
+   "bedMax": 60,
+   "ean": "6974994170343",
+   "sku": "700-001-1202"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Sky Blue",
+   "colors": [
+    "#5EB8F0"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170916",
+   "sku": "700-001-1246"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "White",
+   "colors": [
+    "#FFFFFF"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170923",
+   "sku": "700-001-1200",
+   "codes": [
+    "921019379554"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Yellow",
+   "colors": [
+    "#FBE200"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 30,
+   "bedMax": 60,
+   "ean": "6974994170930",
+   "sku": "700-001-1199"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk 3er-Pack",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Silk Gold & Silver & Copper (3 × 0,5 kg)",
+   "colors": [
+    "#E3B145",
+    "#ABACB0",
+    "#C66547"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1500.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "sku": "700-001-1237",
+   "codes": [
+    "921019583810"
+   ],
+   "spoolMaterial": "CARDBOARD",
+   "bedMin": 20,
+   "bedMax": 60
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Dual",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Black+Red",
+   "colors": [
+    "#000000",
+    "#D0201B"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994171258",
+   "sku": "700-001-1570",
+   "codes": [
+    "921336414899"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Dual",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Blue+Green",
+   "colors": [
+    "#2E56F1",
+    "#06B100"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994174921",
+   "sku": "700-001-1573"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Dual",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Gold+Black",
+   "colors": [
+    "#E3B145",
+    "#000000"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994171272",
+   "sku": "700-001-1572"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Dual",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Gold+Copper",
+   "colors": [
+    "#E3B145",
+    "#C66547"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994171302",
+   "sku": "700-001-1576"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Dual",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Gold+Purple",
+   "colors": [
+    "#E3B145",
+    "#8846AE"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994171296",
+   "sku": "700-001-1575"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Dual",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Gold+Red",
+   "colors": [
+    "#E3B145",
+    "#D0201B"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994171289",
+   "sku": "700-001-1574",
+   "codes": [
+    "921167406485"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Dual",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Gold+Silver",
+   "colors": [
+    "#E3B145",
+    "#ABACB0"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994171319",
+   "sku": "700-001-1577"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Dual",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Green+Red",
+   "colors": [
+    "#06B100",
+    "#D0201B"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994171265",
+   "sku": "700-001-1571"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Dual",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Yellow+Green",
+   "colors": [
+    "#FBE200",
+    "#06B100"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994174938",
+   "sku": "700-001-1578"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Tri-Colour",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Blue+Purple+Black",
+   "colors": [
+    "#2E56F1",
+    "#8846AE",
+    "#000000"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994171395",
+   "sku": "700-001-1594",
+   "codes": [
+    "921336414915"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Tri-Colour",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Gold+Silver+Copper",
+   "colors": [
+    "#E3B145",
+    "#ABACB0",
+    "#C66547"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994171357",
+   "sku": "700-001-1590"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Tri-Colour",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Orange+Blue+Green",
+   "colors": [
+    "#FF9100",
+    "#2E56F1",
+    "#06B100"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994171333",
+   "sku": "700-001-1588"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Tri-Colour",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Purple+Gold+Black",
+   "colors": [
+    "#8846AE",
+    "#E3B145",
+    "#000000"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994171388",
+   "sku": "700-001-1593"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Tri-Colour",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Red+Blue+Green",
+   "colors": [
+    "#D0201B",
+    "#2E56F1",
+    "#06B100"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994171364",
+   "sku": "700-001-1591"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Tri-Colour",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Red+Gold+Black",
+   "colors": [
+    "#D0201B",
+    "#E3B145",
+    "#000000"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994171371",
+   "sku": "700-001-1592"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Tri-Colour",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Red+Gold+Purple",
+   "colors": [
+    "#D0201B",
+    "#E3B145",
+    "#8846AE"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994171340",
+   "sku": "700-001-1589"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Silk Tri-Colour",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Red+Yellow+Blue",
+   "colors": [
+    "#D0201B",
+    "#FBE200",
+    "#2E56F1"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "ean": "6974994171326",
+   "sku": "700-001-1587"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Sparkly",
+   "material": "PLA",
+   "variant": "Sparkly",
+   "colorName": "Blue",
+   "colors": [
+    "#2E56F1"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "GLITTER"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 180,
+   "nozzleMax": 210,
+   "bedMin": 50,
+   "bedMax": 67,
+   "ean": "6974994174853",
+   "sku": "700-001-1235"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Sparkly",
+   "material": "PLA",
+   "variant": "Sparkly",
+   "colorName": "Purple",
+   "colors": [
+    "#8846AE"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "GLITTER"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 180,
+   "nozzleMax": 210,
+   "bedMin": 50,
+   "bedMax": 67,
+   "ean": "6974994174846",
+   "sku": "700-001-1234"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Sparkly",
+   "material": "PLA",
+   "variant": "Sparkly",
+   "colorName": "Silver",
+   "colors": [
+    "#ABACB0"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "GLITTER"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 180,
+   "nozzleMax": 210,
+   "bedMin": 50,
+   "bedMax": 67,
+   "ean": "6974994174860",
+   "sku": "700-001-1236"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Wood",
+   "material": "PLA",
+   "variant": "Wood",
+   "colorName": "Black Walnut",
+   "colors": [
+    "#5C4033"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "WOOD"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 185,
+   "nozzleMax": 210,
+   "bedMin": 25,
+   "bedMax": 60,
+   "ean": "6974994170299",
+   "sku": "700-001-0777",
+   "codes": [
+    "921011178654"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Wood",
+   "material": "PLA",
+   "variant": "Wood",
+   "colorName": "Ebony",
+   "colors": [
+    "#3B2F2F"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "WOOD"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 25,
+   "bedMax": 60,
+   "ean": "6974994171906",
+   "sku": "700-001-1602"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Wood",
+   "material": "PLA",
+   "variant": "Wood",
+   "colorName": "Poplar",
+   "colors": [
+    "#E8D5B7"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "WOOD"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 25,
+   "bedMax": 60,
+   "ean": "6974994171883",
+   "sku": "700-001-1600"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Wood",
+   "material": "PLA",
+   "variant": "Wood",
+   "colorName": "Rose",
+   "colors": [
+    "#B5675C"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "WOOD"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 25,
+   "bedMax": 60,
+   "ean": "6974994174839",
+   "sku": "700-001-1601"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Wood",
+   "material": "PLA",
+   "variant": "Wood",
+   "colorName": "Wood",
+   "colors": [
+    "#C4A882"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "WOOD"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 25,
+   "bedMax": 60,
+   "ean": "6974994171913",
+   "sku": "700-001-1812"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "PLA Wood",
+   "material": "PLA",
+   "colorName": "Wood Por",
+   "colors": [
+    "#EFE8D8"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "WOOD"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 25,
+   "bedMax": 60
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Black",
+   "colors": [
+    "#000000"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994170350",
+   "sku": "700-001-1148"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Blue",
+   "colors": [
+    "#2E56F1"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994175218",
+   "sku": "700-001-1843"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Brown",
+   "colors": [
+    "#7A4A2A"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994172637",
+   "sku": "700-001-1855"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Green",
+   "colors": [
+    "#06B100"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994175225",
+   "sku": "700-001-1841"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Grey",
+   "colors": [
+    "#9CA7B0"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994171166",
+   "sku": "700-001-1147",
+   "codes": [
+    "921019583784"
+   ]
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Orange",
+   "colors": [
+    "#FF9100"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994172651",
+   "sku": "700-001-1851"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Pink",
+   "colors": [
+    "#F06AA8"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994175201",
+   "sku": "700-001-1852"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Purple",
+   "colors": [
+    "#8846AE"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994172644",
+   "sku": "700-001-1854"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Red",
+   "colors": [
+    "#D0201B"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994172668",
+   "sku": "700-001-1840"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Transparent",
+   "colors": [
+    "#E6EEF2"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994171159",
+   "sku": "700-001-1146"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Transparent Blue",
+   "colors": [
+    "#2E56F1"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994171197",
+   "sku": "700-001-1430"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Transparent Brown",
+   "colors": [
+    "#7A4A2A"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994172590",
+   "sku": "700-001-1434"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Transparent Gold",
+   "colors": [
+    "#E3B145"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994175232",
+   "sku": "700-001-1435"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Transparent Green",
+   "colors": [
+    "#06B100"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994171180",
+   "sku": "700-001-1431"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Transparent Orange",
+   "colors": [
+    "#FF9100"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994172514",
+   "sku": "700-001-1426"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Transparent Pink",
+   "colors": [
+    "#F06AA8"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994172576",
+   "sku": "700-001-1427"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Transparent Purple",
+   "colors": [
+    "#8846AE"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994172507",
+   "sku": "700-001-1433"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Transparent Red",
+   "colors": [
+    "#D0201B"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994171173",
+   "sku": "700-001-1428"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Transparent Silver",
+   "colors": [
+    "#ABACB0"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994171418",
+   "sku": "700-001-1432"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Transparent Yellow",
+   "colors": [
+    "#FBE200"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "TRANSPARENT"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994172583",
+   "sku": "700-001-1429"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "White",
+   "colors": [
+    "#FFFFFF"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "ean": "6974994170602",
+   "sku": "700-001-1149"
+  },
+  {
+   "brand": "Geeetech",
+   "line": "TPU",
+   "material": "TPU",
+   "variant": "95A",
+   "colorName": "Yellow",
+   "colors": [
+    "#FBE200"
+   ],
+   "colorMode": "SOLID",
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.21,
+   "nozzleMin": 200,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 60,
+   "sku": "700-001-1842"
+  },
+  {
+   "brand": "Giantarm",
+   "line": "Glow in the Dark PLA",
+   "material": "PLA",
+   "colorName": "Yellow",
+   "colors": [
+    "#E5B602"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "GLOW"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 190,
+   "nozzleMax": 230,
+   "bedMin": 50,
+   "bedMax": 70
+  },
+  {
+   "brand": "Giantarm",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Blue + Purple + Black",
+   "colors": [
+    "#0000FF",
+    "#800080",
+    "#000000"
+   ],
+   "colorMode": "COAXIAL",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 30,
+   "bedMax": 60,
+   "emptySpoolG": 250.0
+  },
+  {
+   "brand": "Giantarm",
+   "line": "PLA Silk",
+   "material": "PLA",
+   "variant": "Silk",
+   "colorName": "Silk Black",
+   "colors": [
+    "#000000"
+   ],
+   "colorMode": "SOLID",
+   "effects": [
+    "SILK"
+   ],
+   "diameterMm": 1.75,
+   "weightG": 1000.0,
+   "density": 1.24,
+   "nozzleMin": 195,
+   "nozzleMax": 230,
+   "bedMin": 30,
+   "bedMax": 60,
+   "sku": "700-001-1831",
+   "codes": [
+    "921277295727"
+   ]
+  }
+ ]
+}
